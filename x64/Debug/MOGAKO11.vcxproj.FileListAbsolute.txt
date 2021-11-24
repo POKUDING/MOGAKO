@@ -1,2 +1,3 @@
 C:\Users\박준형\Documents\C언어\MOGAKO11\x64\Debug\MOGAKO11.exe
 C:\C언어\MOGAKO11\x64\Debug\MOGAKO11.exe
+C:\procjects\C언어\MOGAKO11\x64\Debug\MOGAKO11.exe
